@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadWindowsService", "BadWindowsService\BadWindowsService.csproj", "{43A031B0-E040-4D5E-B477-02651F5E3D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "Installer\Installer.csproj", "{B474B962-A46B-4D35-86F3-E8BA120C88C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A031B0-E040-4D5E-B477-02651F5E3D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A031B0-E040-4D5E-B477-02651F5E3D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A031B0-E040-4D5E-B477-02651F5E3D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A031B0-E040-4D5E-B477-02651F5E3D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B474B962-A46B-4D35-86F3-E8BA120C88C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B474B962-A46B-4D35-86F3-E8BA120C88C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B474B962-A46B-4D35-86F3-E8BA120C88C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B474B962-A46B-4D35-86F3-E8BA120C88C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C91872E-15DA-4DE2-80CF-7107A600FF59}
+	EndGlobalSection
+EndGlobal
